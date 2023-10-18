@@ -29,7 +29,7 @@ To set up a local copy of this project:
 
 ## Usage
 
-1. In the project's root directory, run the application using the command `npm start`.
+1. In the project's root directory, run the application using the command `npm run dev`.
 2. Navigate to `http://localhost:3000` in your browser (or the port mentioned in your terminal).
 3. Explore the portfolio to get an understanding of my skills, projects, and experience.
 
