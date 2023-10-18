@@ -4,9 +4,9 @@ import resume from '../../assets/resume-doc/resume.pdf';
 function Resume () {
     return (
         <div className='resume-section'>
-            <p>Download Resume below:</p>
+            <p>Click button below to download resume:</p>
             <a href={resume} download>
-                <button>Resume</button>
+                <button>Download</button>
             </a>
             <br />
             <p>Development Skills include topics such as:</p>
