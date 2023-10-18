@@ -13,9 +13,6 @@ function AboutMe() {
             <p>
                 Now, equipped with coding skills, I'm on a mission to bridge the gap between finance and technology. Building and optimizing, one line of code at a time. I'd love for you to take a look at my portfolio to see the projects that I've been pouring my energy into.
             </p>
-            {/* <p>
-                This immersive journey equipped me with proficiency in both front-end and back-end development. Throughout the course, I have honed skills in HTML, CSS, Git, JavaScript, APIs, Object-Oriented Programming, SQL, ORM, MVC, Node.js, Express.js, MongoDB, PWA, React, MERN and State. 
-            </p> */}
         </div>
     )
 }
