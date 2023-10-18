@@ -10,7 +10,7 @@ Deployed link: https://extraordinary-lily-6aa855.netlify.app/
 
 Github Repo: https://github.com/Devarasen/MVC-Tech-Blog-M14-DS
 
-![Screenshot](./public/assets/Project%20Screenshot.PNG)
+![Screenshot](./public/Project%20Screenshot.PNG)
 
 ## Table of Contents
 
