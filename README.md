@@ -8,7 +8,7 @@ This portfolio showcases my skills and achievements as a React developer. Throug
 
 Deployed link: https://extraordinary-lily-6aa855.netlify.app/
 
-Github Repo: https://github.com/Devarasen/MVC-Tech-Blog-M14-DS
+Github Repo: https://github.com/Devarasen/Portfolio---React---M20---DS
 
 ![Screenshot](./public/Project%20Screenshot.PNG)
 
