@@ -1,23 +1,23 @@
 
-/* Styles for the <ul> element to remove default styles */
 nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center; /* Horizontally center the list items */
+    justify-content: center; 
 }
 
 /* Styles for the <li> elements to display them in a row and style them */
 nav li {
     margin: 10px;
-    padding: 10px 20px; /* Adjust as needed */
-    cursor: pointer; /* Change the cursor to a pointer when hovering over list items */
-    transition: background-color 0.3s; /* Optional: Smooth transition for hover effect */
+    padding: 10px 20px; 
+    cursor: pointer; 
 }
 
-/* Optional: A hover effect for the list items */
+/* A hover effect for the list items */
 nav li:hover {
-    background-color: #555;
+    background-color: #1e1479;
     color: #fff;
+    border-radius: 15px;
+    border: 2px solid white; 
 }

@@ -5,7 +5,7 @@ import Navigation from './components/Navigation';
 // import Portfolio from './components/Portfolio';
 // import Contact from './components/Contact';
 // import Resume from './components/Resume';
-// import Footer from './components/Footer';
+import Footer from './components/Footer';
 import './App.css'; 
 
 function App() {
@@ -21,8 +21,8 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/resume" element={<Resume />} />
           </Routes>
-        </main>
-        <Footer /> */}
+        </main> */}
+        <Footer />
       </div>
     </Router>
   );

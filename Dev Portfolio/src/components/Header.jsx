@@ -2,7 +2,9 @@ import '../styles/Header.css';
 
 function Header () {
     return (
-        <h1>Devarasen Sundarasan</h1>
+        <div className='header-style'>
+            <h1>Devarasen Sundarasan</h1>
+        </div>        
     )
 }
 
